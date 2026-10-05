@@ -2,7 +2,7 @@
 #
 # Owned by the Storefront team. The chart lives in argocd-class-resources; only the
 # values that differ per environment belong here.
-replicaCount: 3
+replicaCount: 4
 
 image:
   repository: hashicorp/http-echo
